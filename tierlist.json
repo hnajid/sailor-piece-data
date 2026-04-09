@@ -3,24 +3,48 @@
     "name": "Light Fruit",
     "tier": "S",
     "type": "Fruit",
-    "note": "Best for farming"
+    "note": "Top farming and mobility"
+  },
+  {
+    "name": "Ice Fruit",
+    "tier": "A",
+    "type": "Fruit",
+    "note": "Good control and combo potential"
   },
   {
     "name": "Flame Fruit",
     "tier": "A",
     "type": "Fruit",
-    "note": "Strong early game"
+    "note": "Strong damage for progression"
+  },
+  {
+    "name": "Dark Fruit",
+    "tier": "B",
+    "type": "Fruit",
+    "note": "Decent but less flexible"
   },
   {
     "name": "Dark Blade",
     "tier": "S",
     "type": "Sword",
-    "note": "High damage"
+    "note": "Very high damage"
   },
   {
-    "name": "Hunter Sword",
+    "name": "Bisento",
+    "tier": "A",
+    "type": "Sword",
+    "note": "Strong range and damage"
+  },
+  {
+    "name": "Katana",
     "tier": "B",
     "type": "Sword",
-    "note": "Good starter"
+    "note": "Good starter weapon"
+  },
+  {
+    "name": "Dual Katana",
+    "tier": "A",
+    "type": "Sword",
+    "note": "Solid all-round option"
   }
 ]
