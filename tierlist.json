@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Light Fruit",
+    "tier": "S",
+    "type": "Fruit",
+    "note": "Best for farming"
+  },
+  {
+    "name": "Flame Fruit",
+    "tier": "A",
+    "type": "Fruit",
+    "note": "Strong early game"
+  },
+  {
+    "name": "Dark Blade",
+    "tier": "S",
+    "type": "Sword",
+    "note": "High damage"
+  },
+  {
+    "name": "Hunter Sword",
+    "tier": "B",
+    "type": "Sword",
+    "note": "Good starter"
+  }
+]
