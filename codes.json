@@ -1,0 +1,32 @@
+[
+  {
+    "title": "NEWCODE1",
+    "reward": "Free gems",
+    "isActive": true
+  },
+  {
+    "title": "NEWCODE2",
+    "reward": "2x XP Boost",
+    "isActive": true
+  },
+  {
+    "title": "UPDATEBOOST",
+    "reward": "Stat reset",
+    "isActive": true
+  },
+  {
+    "title": "SORRYFIX",
+    "reward": "Free rewards",
+    "isActive": true
+  },
+  {
+    "title": "OLDCODE1",
+    "reward": "Old reward",
+    "isActive": false
+  },
+  {
+    "title": "OLDCODE2",
+    "reward": "Expired reward",
+    "isActive": false
+  }
+]
