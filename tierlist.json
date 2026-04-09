@@ -1,50 +1,29 @@
 [
-  {
-    "name": "Light Fruit",
-    "tier": "S",
-    "type": "Fruit",
-    "note": "Top farming and mobility"
-  },
-  {
-    "name": "Ice Fruit",
-    "tier": "A",
-    "type": "Fruit",
-    "note": "Good control and combo potential"
-  },
-  {
-    "name": "Flame Fruit",
-    "tier": "A",
-    "type": "Fruit",
-    "note": "Strong damage for progression"
-  },
-  {
-    "name": "Dark Fruit",
-    "tier": "B",
-    "type": "Fruit",
-    "note": "Decent but less flexible"
-  },
-  {
-    "name": "Dark Blade",
-    "tier": "S",
-    "type": "Sword",
-    "note": "Very high damage"
-  },
-  {
-    "name": "Bisento",
-    "tier": "A",
-    "type": "Sword",
-    "note": "Strong range and damage"
-  },
-  {
-    "name": "Katana",
-    "tier": "B",
-    "type": "Sword",
-    "note": "Good starter weapon"
-  },
-  {
-    "name": "Dual Katana",
-    "tier": "A",
-    "type": "Sword",
-    "note": "Solid all-round option"
-  }
+  { "name": "Light Fruit", "type": "Fruit", "tier": "S", "note": "Fast farming, great mobility, strong damage" },
+  { "name": "Flame Fruit", "type": "Fruit", "tier": "A", "note": "Strong early game, good AoE" },
+  { "name": "Ice Fruit", "type": "Fruit", "tier": "A", "note": "Good control and decent damage" },
+  { "name": "Dark Fruit", "type": "Fruit", "tier": "S", "note": "High damage, great for bosses" },
+  { "name": "Lightning Fruit", "type": "Fruit", "tier": "S", "note": "Very strong AoE and fast farming" },
+  { "name": "Sand Fruit", "type": "Fruit", "tier": "B", "note": "Decent damage but less effective later" },
+  { "name": "Smoke Fruit", "type": "Fruit", "tier": "C", "note": "Weak damage, beginner only" },
+  { "name": "Magma Fruit", "type": "Fruit", "tier": "S", "note": "Insane damage and boss farming" },
+  { "name": "Phoenix Fruit", "type": "Fruit", "tier": "A", "note": "Good survivability and healing" },
+  { "name": "Gravity Fruit", "type": "Fruit", "tier": "B", "note": "Fun but not optimal for farming" },
+  { "name": "Venom Fruit", "type": "Fruit", "tier": "S", "note": "Extremely strong damage over time" },
+  { "name": "Dragon Fruit", "type": "Fruit", "tier": "S", "note": "Top tier late game power" },
+
+  { "name": "Dark Blade", "type": "Sword", "tier": "S", "note": "High damage, top tier sword" },
+  { "name": "Hunter Sword", "type": "Sword", "tier": "B", "note": "Good starter option" },
+  { "name": "Katana", "type": "Sword", "tier": "C", "note": "Basic sword, early game only" },
+  { "name": "Saber", "type": "Sword", "tier": "A", "note": "Strong mid game weapon" },
+  { "name": "Shark Blade", "type": "Sword", "tier": "B", "note": "Decent but not top tier" },
+  { "name": "Triple Katana", "type": "Sword", "tier": "A", "note": "Balanced damage and speed" },
+  { "name": "Long Sword", "type": "Sword", "tier": "C", "note": "Weak compared to others" },
+  { "name": "Dragon Slayer", "type": "Sword", "tier": "S", "note": "High DPS and strong abilities" },
+  { "name": "Flame Sword", "type": "Sword", "tier": "A", "note": "Good damage with fire effects" },
+  { "name": "Ice Blade", "type": "Sword", "tier": "B", "note": "Decent control, average damage" },
+  { "name": "Shadow Blade", "type": "Sword", "tier": "S", "note": "Fast attacks and strong combos" },
+  { "name": "Thunder Sword", "type": "Sword", "tier": "A", "note": "Good AoE and speed" },
+  { "name": "Steel Blade", "type": "Sword", "tier": "C", "note": "Basic weapon, not recommended" },
+  { "name": "Blood Sword", "type": "Sword", "tier": "B", "note": "Decent damage, situational use" }
 ]
