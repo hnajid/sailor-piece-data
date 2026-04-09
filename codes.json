@@ -1,31 +1,72 @@
 [
   {
-    "title": "HALIIIIIM",
-    "reward": "Free gems",
-    "isActive": true
-  },
-  {
-    "title": "NEWCODE2",
-    "reward": "2x XP Boost",
-    "isActive": true
-  },
-  {
-    "title": "UPDATEBOOST",
-    "reward": "Stat reset",
-    "isActive": true
-  },
-  {
-    "title": "SORRYFIX",
+    "title": "MINIUPDATEBIGONESOON",
     "reward": "Free rewards",
     "isActive": true
   },
   {
-    "title": "OLDCODE1",
-    "reward": "Old reward",
+    "title": "ICEQUEEN",
+    "reward": "Free rewards",
+    "isActive": true
+  },
+  {
+    "title": "500MVISITSWOAHH",
+    "reward": "Boosts",
+    "isActive": true
+  },
+  {
+    "title": "FREECODE",
+    "reward": "Free rewards",
+    "isActive": true
+  },
+
+  {
+    "title": "400MVISITSWOAHH",
+    "reward": "Expired reward",
     "isActive": false
   },
   {
-    "title": "OLDCODE2",
+    "title": "600KLIKESTY",
+    "reward": "Expired reward",
+    "isActive": false
+  },
+  {
+    "title": "425KCCUYAY",
+    "reward": "Expired reward",
+    "isActive": false
+  },
+  {
+    "title": "SEA2SOON",
+    "reward": "Expired reward",
+    "isActive": false
+  },
+  {
+    "title": "175KFOLLOWSTYSM",
+    "reward": "Expired reward",
+    "isActive": false
+  },
+  {
+    "title": "150MVISITS",
+    "reward": "Expired reward",
+    "isActive": false
+  },
+  {
+    "title": "UPDATE2",
+    "reward": "Expired reward",
+    "isActive": false
+  },
+  {
+    "title": "QOLUPDATE",
+    "reward": "Expired reward",
+    "isActive": false
+  },
+  {
+    "title": "10KLIKES",
+    "reward": "Expired reward",
+    "isActive": false
+  },
+  {
+    "title": "15KMEMBERS",
     "reward": "Expired reward",
     "isActive": false
   }
