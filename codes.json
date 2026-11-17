@@ -1,74 +1,87 @@
 [
-
+  {
+    "title": "BROLYUPDATE",
+    "reward": "50 Power Shards, 75 Passive Shards, 12 Secret Chests, 100 Clan Rerolls, 10 Aura Crates, 8 Cosmetic Crates (Lv 12,500+)",
+    "isActive": true
+  },
+  {
+    "title": "LEGENDARYSUPERSAIYAN",
+    "reward": "50 Power Shards, 75 Passive Shards, 12 Secret Chests, 100 Clan Rerolls, 10 Aura Crates, 8 Cosmetic Crates (Lv 12,500+)",
+    "isActive": true
+  },
+  {
+    "title": "GEAR5UPDATE",
+    "reward": "50 Power Shards, 75 Passive Shards, 12 Secret Chests, 100 Clan Rerolls, 10 Aura Crates, 8 Cosmetic Crates (Lv 12,500+)",
+    "isActive": true
+  },
+  {
+    "title": "LUFFYUPDATE",
+    "reward": "50 Power Shards, 75 Passive Shards, 12 Secret Chests, 100 Clan Rerolls, 10 Aura Crates, 8 Cosmetic Crates (Lv 12,500+)",
+    "isActive": true
+  },
+  {
+    "title": "THANKYOUFORWAITING",
+    "reward": "50 Power Shards, 75 Passive Shards, 12 Secret Chests, 100 Clan Rerolls, 10 Aura Crates, 8 Cosmetic Crates (Lv 12,500+)",
+    "isActive": true
+  },
+  {
+    "title": "SORRYFORBROLYBUGANDWAIT",
+    "reward": "Expired",
+    "isActive": false
+  },
+  {
+    "title": "KINGUPDATEHASARRIVED",
+    "reward": "Expired",
+    "isActive": false
+  },
+  {
+    "title": "RAIDUPDATENOW",
+    "reward": "Expired",
+    "isActive": false
+  },
+  {
+    "title": "1BIL500MILVISITSTYSM",
+    "reward": "Expired",
+    "isActive": false
+  },
+  {
+    "title": "GHOULUPDATE",
+    "reward": "Expired",
+    "isActive": false
+  },
+  {
+    "title": "MASTERY",
+    "reward": "Expired",
+    "isActive": false
+  },
+  {
+    "title": "HUGEBUGFIX",
+    "reward": "Expired",
+    "isActive": false
+  },
+  {
+    "title": "MAINTENANCE",
+    "reward": "Expired",
+    "isActive": false
+  },
   {
     "title": "MINIUPDATEBIGONESOON",
-    "reward": "Free rewards",
-    "isActive": true
+    "reward": "Expired",
+    "isActive": false
   },
   {
     "title": "ICEQUEEN",
-    "reward": "Free rewards",
-    "isActive": true
+    "reward": "Expired",
+    "isActive": false
   },
   {
     "title": "500MVISITSWOAHH",
-    "reward": "Boosts",
-    "isActive": true
+    "reward": "Expired",
+    "isActive": false
   },
   {
     "title": "FREECODE",
-    "reward": "Free rewards",
-    "isActive": true
-  },
-
-  {
-    "title": "400MVISITSWOAHH",
-    "reward": "Expired reward",
-    "isActive": false
-  },
-  {
-    "title": "600KLIKESTY",
-    "reward": "Expired reward",
-    "isActive": false
-  },
-  {
-    "title": "425KCCUYAY",
-    "reward": "Expired reward",
-    "isActive": false
-  },
-  {
-    "title": "SEA2SOON",
-    "reward": "Expired reward",
-    "isActive": false
-  },
-  {
-    "title": "175KFOLLOWSTYSM",
-    "reward": "Expired reward",
-    "isActive": false
-  },
-  {
-    "title": "150MVISITS",
-    "reward": "Expired reward",
-    "isActive": false
-  },
-  {
-    "title": "UPDATE2",
-    "reward": "Expired reward",
-    "isActive": false
-  },
-  {
-    "title": "QOLUPDATE",
-    "reward": "Expired reward",
-    "isActive": false
-  },
-  {
-    "title": "10KLIKES",
-    "reward": "Expired reward",
-    "isActive": false
-  },
-  {
-    "title": "15KMEMBERS",
-    "reward": "Expired reward",
+    "reward": "Expired",
     "isActive": false
   }
 ]
